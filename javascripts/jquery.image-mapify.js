@@ -277,7 +277,7 @@
     output_shape : {
       attrs : {
         css : {
-          background : 'url(http://vieron.github.com/image-mapify/images/transparent.gif)',
+          background : 'url(https://cooltabs.github.io/image-mapify/images/transparent.gif)',
           border : 'none'
         }
       }
